@@ -14,7 +14,7 @@ import (
 
 const (
 	b2Host = "https://api.backblazeb2.com"
-	v1     = "/b2api/v1/"
+	v1     = "/b2api/v2/"
 )
 
 // Credentials are the identification required by the Backblaze B2 API
