@@ -12,8 +12,7 @@ import (
 	"github.com/dustin/go-humanize"
 	"github.com/gosuri/uiprogress"
 	"github.com/gosuri/uiprogress/util/strutil"
-
-	"gopkg.in/kothar/go-backblaze.v0"
+	"github.com/sial-ari/go-backblaze"
 )
 
 // TODO support directories
